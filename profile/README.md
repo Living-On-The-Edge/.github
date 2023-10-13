@@ -1,12 +1,11 @@
-## Hi there 👋
+## Mobile Scene Understanding: On-Device Deployment of Scene Description Models
+#### By - Living on The Edge
+---
+This is the code repository of our Project for [On-Device Machine Learning](https://cmu-odml.github.io/) Course at Carnegie Mellon University
 
-<!--
+- ### [Project Proposal](https://github.com/Living-On-The-Edge/.github/blob/main/Project%20Proposal.pdf)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repository Index
+- [Fine-Tuning BLIP](https://github.com/Living-On-The-Edge/blip-finetune)
+- [Converting BLIP Model to CoreML Format](https://github.com/Living-On-The-Edge/mobile-integration)
