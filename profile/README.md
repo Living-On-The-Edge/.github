@@ -1,4 +1,6 @@
-## Mobile Scene Understanding: On-Device Deployment of Scene Description Models
+# [Mobile Scene Understanding: On-Device Deployment of Scene Description Models](https://github.com/Living-On-The-Edge/.github/blob/main/Project%20Proposal.pdf)
+
+
 #### By - Living on The Edge
 ---
 This is the code repository of our Project for [On-Device Machine Learning](https://cmu-odml.github.io/) Course at Carnegie Mellon University
